@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is F403-806A
+
+ Directory of C:\Users\Hossam\Desktop\GIT projects
+
+02/04/2020  03:23 PM    <DIR>          .
+02/04/2020  03:23 PM    <DIR>          ..
+02/04/2020  03:23 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  290,157,387,776 bytes free
